@@ -9,12 +9,12 @@
 ##   💫 About Me:
 - 🌱  I’m currently learning M.E.R.N
 - 💬  Ask me about React,CSS,HTML,Javacript
-- 👨‍💻 All of my projects are available at https://ShudhanshuShekhar123.github.io
-- 📫 How to reach me shudhanshuraz01@gmail.com
+- 👨‍💻 All of my projects are available at https://chetan791.github.io/
+- 📫 How to reach me chetanchauhan795@gmail.com
 
   
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shudhanshushekhar123&label=Profile%20views&color=0e75b6&style=flat" alt="shudhanshushekhar123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan791&label=Profile%20views&color=0e75b6&style=flat" alt="shudhanshushekhar123" /> </p>
 
 
 
