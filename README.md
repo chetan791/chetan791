@@ -1,6 +1,6 @@
 <div align="center"><img  alt="coding" width="70%"  height="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></div>
  
- # <div align="center"><pre> Hi👋, I'm Shudhanshu Shekhar </pre> </div> 
+ # <div align="center"><pre> Hi👋, I'm Chetan Chauhan</pre> </div> 
 
 ##     <div align="center"><pre> An enthusiastic & dedicated full stack web developer from India</pre></div>
 
